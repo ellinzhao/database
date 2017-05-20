@@ -1,0 +1,7 @@
+a string,b string,y int,z float,x int,w int
+'hello','[there',2,3.000,0,3
+'hello','[there',3,5.000,0,3
+'my','name',2,3.000,0,3
+'my','name',3,5.000,0,3
+'is','matt]',2,3.000,0,3
+'is','matt]',3,5.000,0,3
